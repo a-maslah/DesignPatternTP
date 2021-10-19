@@ -5,3 +5,5 @@
     - Structure 
     - Comportement
     - Creation
+    
+    ** Pattern Strategy **
