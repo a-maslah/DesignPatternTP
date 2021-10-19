@@ -1,4 +1,2 @@
-# DesignPatternTP
-les quatres design pattern : Strategy, Decorator, Observer, Composite
-### Design Pattern 
+### DesignPatternTP
 ## Strategy ,  Decorator , Observer , Composite
